@@ -21,8 +21,7 @@ $$\langle A_0 B_0 B_1\rangle + \langle A_0 B_2 B_3\rangle + \langle A_1 B_0 B_1\
 and 
 $$\langle A_0 B_0\rangle + \langle A_0 B_2 B_3\rangle + \langle A_1 B_0\rangle - \langle A_0 B_2 B_3\rangle \leq 2$$
 
-
-
+Be free to see the *LND_polytope_facets_output* file above and see if you feel something special about some other inequalities we found.
 
 
 
