@@ -17,7 +17,7 @@ This is the first Extended Bell Scenario studied using this new definition of No
 
 ## 2-Pentagon Senario
 This scenario was used to witness Extended Bell Nonlocality and KS Contextuality jointly, in the same experiment [4]. It as 63 different classes of Extended Bell Inequalities, which we can identify two of them as "Extended CHSH inequalities", like
-$$\expval{A_0}$$
+$$\langle A_0 \rangle$$
 
 
 
