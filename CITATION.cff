@@ -1,6 +1,17 @@
 cff-version: 1.2.0
+title: Extended Bell Scenarios
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
 authors:
-  - family-names: Ruffolo, E. A. Porto
-    given-names: Gabriel, Lucas
-title: "Generalized Bell Scenarios"
-
+  - given-names: Gabriel
+    family-names: Ruffolo
+    email: gabrielruffolo.gr@gmail.com
+    affiliation: Universidade Estadual de Campinas
+  - given-names: Lucas
+    name-particle: E. A.
+    family-names: Porto
+    email: l238696@dac.unicamp.br
+    affiliation: Universidade Estadual de Campinas
+repository-code: 'https://github.com/ruffolo14/Generalized-Bell-Scenarios'
