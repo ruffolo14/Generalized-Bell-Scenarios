@@ -1,1 +1,5 @@
-
+cff-version: 1.2.0
+authors:
+  - family-names: Ruffolo, E. A. Porto
+    given-names: Gabriel, Lucas
+title: "Generalized Bell Scenarios"
